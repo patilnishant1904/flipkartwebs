@@ -1,4 +1,4 @@
-# Flipkart-MERN
+# Flipkart-Clone
 
 Full-Stack Flipkart with Admin Dashboard & Paytm Payment Gateway.
 
